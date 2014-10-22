@@ -7,7 +7,8 @@ XML creator for moodle quiz format. Creates Moodle XML from text file
 
 Category|Type|Name|Question|percentage|Option|percentage|Option2|percentage|Option3
 
-**Type**
+**Supported Type**
+
 1.multichoice
 
 2.truefalse
